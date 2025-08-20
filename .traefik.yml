@@ -1,5 +1,5 @@
 displayName: Epoch Header
 type: middleware
-import: github.com/durvesh-palkar/traefik-epoch-header
+import: github.com/Durvesh-palkar/traefik-epoch-header
 summary: "Adds HS-UEpoch header with current time in seconds.milliseconds (like Nginx $msec)."
 testData: {}
