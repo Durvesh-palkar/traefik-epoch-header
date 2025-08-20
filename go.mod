@@ -1,4 +1,4 @@
-module github.com/durvesh-palkar/traefik-epoch-header
+module github.com/Durvesh-palkar/traefik-epoch-header
 
 go 1.19
 
